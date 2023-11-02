@@ -1,2 +1,3 @@
 # Data-Alg
-Implementing data structures and algorithms
+
+Coding diffrent data strcutures and algorithms in JS
